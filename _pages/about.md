@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the National Engineering Research Center for Software Engineering, Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and Wei Ye. My research interests encompass a diverse range of topics, including representation learning, adversarial training, meta-learning, imbalance learning, and causal machine learning.
+Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [National Engineering Research Center for Software Engineering](https://se.pku.edu.cn/index.htm), Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a diverse range of topics, including representation learning, adversarial training, meta-learning, imbalance learning, and causal machine learning.
+
+If you are interested in my work, please feel free to drop me an [email](xiaolingzhou@stu.pku.edu.cn).
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
