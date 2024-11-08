@@ -24,8 +24,11 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
+- *2023.06*: &nbsp;🎉🎉 天津大学优秀毕业生
+- *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
+- *2023.06*: &nbsp;🎉🎉 论文《Which Samples Should be Learned First, Easy or Hard?》发表在 IEEE Transactions on Neural Networks and Learning Systems(TNNLS) 期刊(CCF-B)
+- *2023.06*: &nbsp;🎉🎉 论文《Combining Adversaries with Anti-adversaries in Training》在AAAI2023上发表，Oral paper(CCF-A)
 
 # 📝 Publications 
 
