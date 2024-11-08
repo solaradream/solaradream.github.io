@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [National Engineering Research Center for Software Engineering](https://se.pku.edu.cn/index.htm), Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a diverse range of topics, including representation learning, adversarial training, meta-learning, imbalance learning, and causal machine learning.
+Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [KCL Lab](https://se.pku.edu.cn/kcl/), [National Engineering Research Center for Software Engineering](https://se.pku.edu.cn/index.htm), Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a diverse range of topics, including representation learning, adversarial training, meta-learning, imbalance learning, and causal machine learning.
 
 Feel free to contact me for communication and collaboration by my [email](xiaolingzhou@stu.pku.edu.cn).
 
