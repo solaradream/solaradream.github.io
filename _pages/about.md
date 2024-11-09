@@ -51,6 +51,34 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Nan Yang, Ou Wu.
 
+- ``IJCAI 2024`` <span style="color:red">(CCF A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
+
+   **Xiaoling Zhou**, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang.
+  
+- ``IEEE TNNLS 2023`` <span style="color:red">(CCF A)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
+
+   **Xiaoling Zhou**, Ou Wu.
+  
+- ``AAAI 2023`` <span style="color:red">(CCF A)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
+
+   **Xiaoling Zhou**, Nan Yang, Ou Wu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
