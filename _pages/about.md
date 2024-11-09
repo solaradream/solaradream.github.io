@@ -89,15 +89,15 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    李政，**周晓玲**，过昱企，张卓力，甘伟荣
    
 # 🎖 Awards
-- *2024.07*: &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
-- *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
-- *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Imbalance learning)
-- *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇) 
-- *2023.09*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Meta-learning)
-- *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
-- *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
-- *2023.06*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Meta-learning)
-- *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training + Imbalance learning)
+- *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇)
+- *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
+- *2024.03* &nbsp; 天津市大学生物理竞赛 **天津市级特等奖** 
+- *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇) 
+- *2023.09* &nbsp; 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Meta-learning)
+- *2023.09* &nbsp; 北京大学博士研究生
+- *2023.06* &nbsp; 天津大学优秀硕士学位论文
+- *2023.06* &nbsp; 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Meta-learning)
+- *2023.02* &nbsp; 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training + Imbalance learning)
 
 
 # 🎖 Honors
