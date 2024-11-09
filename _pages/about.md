@@ -88,10 +88,6 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    吴偶, **周晓玲**, 李蒙阳
    
-%-  一种用于实验室的计算机通信设备,  <span style="color:red">实用新型专利</span>, P. R. China Patent: CN210137522U
-%
-%   李政，**周晓玲**，过昱企，张卓力，甘伟荣
-   
 # 🎖 Awards
 - *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇)
 - *2019.06* &nbsp; 国家级大学生创新项目结题 **国家级**
