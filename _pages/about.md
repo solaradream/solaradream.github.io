@@ -37,8 +37,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 📝 Publications 
 - `IEEE TPAMI 2024` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
-  **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
-- ``IEEE TPAMI 2024`` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444), **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+  **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/)
+  
+- ``IEEE TKDE 2024`` <span style="color:red">(CCF A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
+   **Xiaoling Zhou**, Ou Wu, Mengyang Li.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
