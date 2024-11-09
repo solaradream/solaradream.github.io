@@ -35,7 +35,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI2023** (Oral)接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
-- ``INTERSPEECH 2021`` <span style="color:red">(CCF A)</span> [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, Chenye Cui, Chenye Cui.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+- ``IEEE TPAMI 2024`` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444), **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
 
 # 🎖 Honors and Awards
