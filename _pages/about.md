@@ -27,7 +27,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training)
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
 - *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Data augmentation)
-- *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** 
+- *2024.01*: &nbsp;🎉🎉 入选 **2023年度中国电子学会博士/硕士学位论文激励计划** 
 - *2023.09*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Data weighting & Learning difficulty)
 - *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
@@ -90,19 +90,19 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    吴偶, **周晓玲**, 李蒙阳
    
 # 🎖 Awards
-- *2024.01* &nbsp; 入选&nbsp;2023年度中国电子学会博士/硕士学位论文激励计划 
-- *2019.06* &nbsp; 国家级大学生创新项目结题&nbsp;国家级
-- *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;国家级特等奖
-- *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;省部级特等奖
-- *2018.05* &nbsp; 全国大学生英语竞赛&nbsp;国家级一等奖
-- *2019.04* &nbsp; 美国大学生数学建模竞赛&nbsp;国家级一等奖
-- *2017.11* &nbsp; 全国大学生数学建模竞赛&nbsp;省部级一等奖
-- *2017.05* &nbsp; 全国大学生英语竞赛&nbsp;国家级二等奖
-- *2018.04* &nbsp; 美国大学生数学建模竞赛&nbsp;国家级二等奖
-- *2020.12* &nbsp; 中国研究生数学建模竞赛&nbsp;国家级二等奖 
-- *2018.11* &nbsp; 全国大学生数学竞赛&nbsp;省部级二等奖
-- *2018.06* &nbsp; “泰迪杯”全国数据挖掘挑战赛&nbsp;国家级三等奖
-- *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;省部级三等奖
+- *2024.01* &nbsp; 入选&nbsp;&nbsp;&nbsp;2023年度中国电子学会博士/硕士学位论文激励计划 
+- *2019.06* &nbsp; 国家级大学生创新项目结题&nbsp;&nbsp;&nbsp;国家级
+- *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;国家级特等奖
+- *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;省部级特等奖
+- *2018.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;国家级一等奖
+- *2019.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;国家级一等奖
+- *2017.11* &nbsp; 全国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;省部级一等奖
+- *2017.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;国家级二等奖
+- *2018.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;国家级二等奖
+- *2020.12* &nbsp; 中国研究生数学建模竞赛&nbsp;&nbsp;&nbsp;国家级二等奖 
+- *2018.11* &nbsp; 全国大学生数学竞赛&nbsp;&nbsp;&nbsp;省部级二等奖
+- *2018.06* &nbsp; “泰迪杯”全国数据挖掘挑战赛&nbsp;&nbsp;&nbsp;国家级三等奖
+- *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;&nbsp;&nbsp;省部级三等奖
 
 # 🎖 Honors
 - *2024.10* &nbsp; 北京大学三好学生
