@@ -104,8 +104,19 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2018.06* &nbsp; 第十五届挑战杯天津市大学生课外学术科技作品竞赛 **省部级三等奖**
 
 # 🎖 Honors
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.12* &nbsp; 本科生国家奖学金
+- *2022.12* &nbsp; 硕士研究生国家奖学金
+- *2024.11* &nbsp; 博士研究生国家奖学金
+- *2020.05* &nbsp; 入选 2020年本专科生国家奖学金获奖学生代表名录
+- *2017.11* &nbsp; 国家励志奖学金
+- *2019.12* &nbsp; 天津市大学生创新奖学金
+- *2021.12* &nbsp; 中国石油奖学金
+- *2019.09* &nbsp; 天津大学研究生学业一等奖学金
+- *2024.10* &nbsp; 北京大学三好学生
+- *2023.06* &nbsp; 天津大学优秀毕业生
+- *2023.06* &nbsp; 天津大学优秀硕士学位论文
+- *2022.10* &nbsp; 天津大学优秀学生干部
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
