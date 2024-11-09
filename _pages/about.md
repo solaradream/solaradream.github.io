@@ -97,8 +97,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2017.11* &nbsp; 全国大学生数学建模竞赛 **省部级一等奖**
 - *2017.05* &nbsp; 全国大学生英语竞赛 **国家级二等奖**
 - *2018.04* &nbsp; 美国大学生数学建模竞赛 **国家级二等奖**
-- *2020.12* &nbsp; 第十七届中国研究生数学建模竞赛 **国家级二等奖**
-
+- *2020.12* &nbsp; 第十七届中国研究生数学建模竞赛 **国家级二等奖** 
+- *2018.11* &nbsp; 全国大学生数学竞赛 (天津赛区) **省部级二等奖**
+- *2018.06* &nbsp; “泰迪杯”全国数据挖掘挑战赛 **国家级三等奖**
+- *2018.06* &nbsp; 第十五届挑战杯天津市大学生课外学术科技作品竞赛 **省部级三等奖**
 
 # 🎖 Honors
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
