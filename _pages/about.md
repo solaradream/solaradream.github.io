@@ -82,10 +82,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 📝 Patents
 -  一种可解释性的深度学习样本赋权方法,  <span style="color:red">中国发明专利</span>, P. R. China Patent: CN115730651A
 
-   Ou Wu (导师), **Xiaoling Zhou**, Mengyang Li.
+   Ou Wu, **Xiaoling Zhou**, Mengyang Li.
 
 # 🎖 Awards
-- *2024.07*: &nbsp; Mathorcup 全球大学生数学建模挑战赛 <span style="color:red">国家级特等奖</span>
+- *2024.07*: &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
 - *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Imbalance learning)
 - *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇) 
