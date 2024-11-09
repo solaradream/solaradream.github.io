@@ -80,10 +80,14 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    Rui Wang, **Xiaoling Zhou**, Jian Wu, Ou Wu.
 
 # 📝 Patents
--  一种可解释性的深度学习样本赋权方法,  <span style="color:red">中国发明专利</span>, P. R. China Patent: CN115730651A
+-  一种可解释性的深度学习样本赋权方法,  <span style="color:red">发明专利</span>, P. R. China Patent: CN115730651A
 
-   Ou Wu, **Xiaoling Zhou**, Mengyang Li.
+   吴偶, **周晓玲**, 李蒙阳
+   
+-  一种用于实验室的计算机通信设备,  <span style="color:red">实用新型专利</span>, P. R. China Patent: CN210137522U
 
+   李政，**周晓玲**，过昱企，张卓力，甘伟荣
+   
 # 🎖 Awards
 - *2024.07*: &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
