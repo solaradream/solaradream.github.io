@@ -59,9 +59,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Ou Wu.
   
-- ``AAAI 2023`` <span style="color:red">(CCF A)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
+- ``ECML-PKDD 2022`` <span style="color:red">(CCF A)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
-   **Xiaoling Zhou**, Nan Yang, Ou Wu.
+   **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
 
 
 
