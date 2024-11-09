@@ -75,6 +75,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Ou Wu, Michael K. Ng.
   
+- ``arXiv preprint`` [Data Valuation by Leveraging Global and Local Statistical Information](https://arxiv.org/abs/2405.17464)
+
+   **Xiaoling Zhou**, Ou Wu, Michael K. Ng.
+  
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
    Rui Wang, **Xiaoling Zhou**, Jian Wu, Ou Wu.
@@ -90,6 +94,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    
 # 🎖 Awards
 - *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇)
+- *2019.06* &nbsp; 国家级大学生创新项目结题 **国家级**
 - *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
 - *2018.06* &nbsp; 天津市大学生物理竞赛 **省部级特等奖** 
 - *2018.05* &nbsp; 全国大学生英语竞赛 **国家级一等奖**
