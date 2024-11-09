@@ -25,14 +25,14 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training)
-- *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL2024**接收. (In-Context learning)
-- *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI2024**接收. (Imbalance learning)
+- *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
+- *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Imbalance learning)
 - *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇) 
 - *2023.09*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Meta-learning)
 - *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
 - *2023.06*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Meta-learning)
-- *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI2023** (Oral)接收. (Adversarial training + Imbalance learning)
+- *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
 - `IEEE TPAMI 2024` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
@@ -40,7 +40,16 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
   **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/)
   
 - ``IEEE TKDE 2024`` <span style="color:red">(CCF A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
-   **Xiaoling Zhou**, Ou Wu, Mengyang Li.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+
+   **Xiaoling Zhou**, Ou Wu, Mengyang Li.  \| [**Project**](https://speechresearch.github.io/unsuper/)
+  
+- ``ACL 2024`` <span style="color:red">(CCF A)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://ieeexplore.ieee.org/abstract/document/10254261)
+
+   **Xiaoling Zhou**, Ou Wu, Mengyang Li.  \| [**Project**](https://speechresearch.github.io/unsuper/)
+  
+- ``IEEE TKDE 2024`` <span style="color:red">(CCF A)</span> [Combining Adversaries with Anti-adversaries in Training](https://ieeexplore.ieee.org/abstract/document/10254261)
+
+   **Xiaoling Zhou**, Nan Yang, Ou Wu.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
