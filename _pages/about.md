@@ -117,9 +117,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2022.10* &nbsp; 天津大学优秀学生干部
 
 # 📖 Educations
-- *2023.09 - Now*, Peking University.
+- *2023.09 - Now*, Peking University, National Engineering Research Center for Software Engineering.
   - Supervised by Prof. Shikun Zhang and Prof. We Ye
-- *2020.09 - 2023.06*, Tianjin University.
+- *2020.09 - 2023.06*, Tianjin University, National Center for Applied Mathematics.
   - Supervised by Prof. Ou Wu
+
 # 💻 Academic Services
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Program Committee (PC) Member: ICLR2025, IEEE TIP, IEEE TCSVT, Journal of Supercomputing
