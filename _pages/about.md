@@ -74,7 +74,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - ``arXiv preprint`` [Implicit counterfactual data augmentation for deep neural networks](https://arxiv.org/abs/2304.13431)
 
    **Xiaoling Zhou**, Ou Wu, Michael K. Ng.
+  
+- ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
+   Rui Wang, **Xiaoling Zhou**, Jian Wu, Ou Wu.
 
 
 
