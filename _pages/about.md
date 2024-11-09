@@ -106,7 +106,6 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 🎖 Honors
 - *2019.12* &nbsp; 本科生国家奖学金
 - *2022.12* &nbsp; 硕士研究生国家奖学金
-- *2024.11* &nbsp; 博士研究生国家奖学金
 - *2020.05* &nbsp; 入选 2020年本专科生国家奖学金获奖学生代表名录
 - *2017.11* &nbsp; 国家励志奖学金
 - *2019.12* &nbsp; 天津市大学生创新奖学金
