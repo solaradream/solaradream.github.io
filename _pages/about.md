@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [KCL Lab](https://se.pku.edu.cn/kcl/), National Engineering Research Center for Software Engineering, Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a diverse range of topics, including representation learning, adversarial training, meta-learning, imbalance learning, and causal machine learning.
+Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [KCL Lab](https://se.pku.edu.cn/kcl/), National Engineering Research Center for Software Engineering, Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a diverse range of topics, including machine learning, natural language processing, and knowledge computing. Moreover, I believe that data is the cornerstone of artificial intelligence and focus on data-centric AI.
 
 Feel free to contact me for communication and collaboration by my [email](xiaolingzhou@stu.pku.edu.cn).
 
@@ -27,7 +27,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training)
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
 - *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Imbalance learning)
-- *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇) 
+- *2024.01*: &nbsp;🎉🎉 入选**2023年度中国电子学会博士/硕士学位论文激励计划** 
 - *2023.09*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Meta-learning)
 - *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
@@ -35,35 +35,36 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
-- `IEEE TPAMI 2024` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+- `IEEE TPAMI 2024` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu, Nan Yang.
   
-- ``IEEE TKDE 2024`` <span style="color:red">(CCF A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
+- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
    **Xiaoling Zhou**, Ou Wu, Mengyang Li.
   
-- ``ACL 2024`` <span style="color:red">(CCF A)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://aclanthology.org/2024.acl-long.155/)
+- ``ACL 2024`` <span style="color:red">(CCF Rank A)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://aclanthology.org/2024.acl-long.155/)
 
    **Xiaoling Zhou**, Wei Ye, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, Shikun Zhang.
   
-- ``AAAI 2023`` <span style="color:red">(CCF A)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
 
-   **Xiaoling Zhou**, Nan Yang, Ou Wu.
-
-- ``IJCAI 2024`` <span style="color:red">(CCF A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
+- ``IJCAI 2024`` <span style="color:red">(CCF Rank A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
 
    **Xiaoling Zhou**, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang.
   
-- ``IEEE TNNLS 2023`` <span style="color:red">(CCF B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``AAAI 2023`` <span style="color:red">(CCF Rank A)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
+
+   **Xiaoling Zhou**, Nan Yang, Ou Wu.
+  
+- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, Ou Wu.
   
-- ``ECML-PKDD 2022`` <span style="color:red">(CCF B)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
+- ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
    **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
   
-- ``KBS 2022`` <span style="color:red">(CCF C)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
+- ``KBS 2022`` <span style="color:red">(CCF Rank C)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu, Chao Jiang.
   
@@ -89,7 +90,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    吴偶, **周晓玲**, 李蒙阳
    
 # 🎖 Awards
-- *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** (全国仅68篇)
+- *2024.01* &nbsp; 入选**2023年度中国电子学会博士/硕士学位论文激励计划** 
 - *2019.06* &nbsp; 国家级大学生创新项目结题 **国家级**
 - *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛 **国家级特等奖**
 - *2018.06* &nbsp; 天津市大学生物理竞赛 **省部级特等奖** 
@@ -117,9 +118,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2022.10* &nbsp; 天津大学优秀学生干部
 
 # 📖 Educations
-- *2023.09 - Now*, Peking University, National Engineering Research Center for Software Engineering.
+- *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
   - Supervised by Prof. Shikun Zhang and Prof. We Ye
-- *2020.09 - 2023.06*, Tianjin University, National Center for Applied Mathematics.
+- *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
   - Supervised by Prof. Ou Wu
 
 # 💻 Academic Services
