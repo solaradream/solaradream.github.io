@@ -24,11 +24,12 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 入选2023年度中国电子学会博士/硕士学位论文激励计划 (全国仅68篇) ！
-- *2023.06*: &nbsp;🎉🎉 北京大学博士研究生
+- *2024.01*: &nbsp;🎉🎉 入选2023年度中国电子学会博士/硕士学位论文激励计划 (全国仅68篇) 
+- *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
+- *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training + Imbalance learning)
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
-- *2023.06*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接受！ (Multimodal Large Language Models + 3D large-scale model)
-- *2023.06*: &nbsp;🎉🎉 论文《Combining Adversaries with Anti-adversaries in Training》在AAAI2023上发表，Oral paper(CCF-A)
+- *2023.06*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Meta-learning + Imbalance learning)
+- *2023.02*: &nbsp;🎉🎉 一篇论文被**AAAI2023 (Oral paper)**接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
 
