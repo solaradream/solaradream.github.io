@@ -116,14 +116,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.06* &nbsp; 天津大学优秀硕士学位论文
 - *2022.10* &nbsp; 天津大学优秀学生干部
 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2016.09 - 2020.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Now*, Peking University. 
+- *2020.09 - 2023.06*, Tianjin University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Academic Services
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
