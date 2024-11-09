@@ -78,8 +78,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
    Rui Wang, **Xiaoling Zhou**, Jian Wu, Ou Wu.
+# 📝 Patents
+-  一种可解释性的深度学习样本赋权方法,  <span style="color:red">中国发明专利</span>, P. R. China Patent: CN115730651A
 
-
+   Ou Wu (导师), **Xiaoling Zhou**, Mengyang Li.
 
 
 
