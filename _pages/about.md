@@ -55,15 +55,21 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang.
   
-- ``IEEE TNNLS 2023`` <span style="color:red">(CCF A)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``IEEE TNNLS 2023`` <span style="color:red">(CCF B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, Ou Wu.
   
-- ``ECML-PKDD 2022`` <span style="color:red">(CCF A)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
+- ``ECML-PKDD 2022`` <span style="color:red">(CCF B)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
    **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
+  
+- ``KBS 2022`` <span style="color:red">(CCF B)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
+   **Xiaoling Zhou**, Ou Wu, Chao Jiang.
+  
+- ``ECML-PKDD 2022`` <span style="color:red">(CCF B)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
+   **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
 
 
 
