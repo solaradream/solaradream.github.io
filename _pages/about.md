@@ -32,7 +32,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
 - *2023.06*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Meta-learning)
-- *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI2023**<span style="color:red">(Oral)</span>接收. (Adversarial training + Imbalance learning)
+- *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI2023**<span style="color:red">(Oral,3.51%)</span>接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
 
