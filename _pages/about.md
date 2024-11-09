@@ -122,5 +122,5 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
   - Supervised by Prof. Ou Wu
 
-# 💻 Academic Services
+# 💻 Services
 Program Committee (PC) Member: ICLR2025, IEEE TIP, IEEE TCSVT, Journal of Supercomputing.
