@@ -71,9 +71,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Ou Wu.
   
-- ``ACPR 2021`` [Drop “noise” edge: an approximation of the Bayesian GNNs](https://link.springer.com/chapter/10.1007/978-3-031-02444-3_5)
+- ``arXiv preprint`` [Implicit counterfactual data augmentation for deep neural networks](https://arxiv.org/abs/2304.13431)
 
-   **Xiaoling Zhou**, Ou Wu.
+   **Xiaoling Zhou**, Ou Wu, Michael K. Ng.
 
 
 
