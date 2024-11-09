@@ -35,7 +35,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI2023** (Oral)接收. (Adversarial training + Imbalance learning)
 
 # 📝 Publications 
-- `IEEE TPAMI 2024` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444), **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+- `IEEE TPAMI 2024` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+
+  **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 - ``IEEE TPAMI 2024`` <span style="color:red">(CCF A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444), **Xiaoling Zhou**, Ou Wu, Nan Yang.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
 # 🎖 Honors and Awards
