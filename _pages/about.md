@@ -91,7 +91,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    
 # 🎖 Awards
 - *2024.01* &nbsp; 入选&nbsp;&nbsp;&nbsp;2023年度中国电子学会博士/硕士学位论文激励计划 
-- *2019.06* &nbsp; 国家级大学生创新项目结题&nbsp;&nbsp;&nbsp;国家级
+- *2019.06* &nbsp; 国家级大学生创新项目结题 [主持人]&nbsp;&nbsp;&nbsp;国家级
 - *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;国家级特等奖
 - *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;省部级特等奖
 - *2018.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;国家级一等奖
@@ -118,9 +118,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
-  - Supervised by Prof. Shikun Zhang and Prof. We Ye
+  - Supervised by Prof. Shikun Zhang and Prof. [Wei Ye (叶蔚)](https://se.pku.edu.cn/kcl/weiye/)
 - *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
-  - Supervised by Prof. Ou Wu
+  - Supervised by Prof. [Ou Wu(吴偶)](https://math.tju.edu.cn/info/1715/5610.htm)
 
 # 💻 Services
 Program Committee (PC) Member: ICLR2025, IEEE TIP, IEEE TCSVT, Journal of Supercomputing.
