@@ -118,9 +118,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
-  - Supervised by Prof. Shikun Zhang and Prof. [Wei Ye (叶蔚)](https://se.pku.edu.cn/kcl/weiye/)
+  - Supervised by Prof. Shikun Zhang (张世坤) and Prof. [Wei Ye (叶蔚)](https://se.pku.edu.cn/kcl/weiye/)
 - *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
-  - Supervised by Prof. [Ou Wu(吴偶)](https://math.tju.edu.cn/info/1715/5610.htm)
+  - Supervised by Prof. [Ou Wu (吴偶)](https://math.tju.edu.cn/info/1715/5610.htm)
 
 # 💻 Services
 Program Committee (PC) Member: ICLR2025, IEEE TIP, IEEE TCSVT, Journal of Supercomputing.
