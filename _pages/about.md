@@ -90,7 +90,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    吴偶, **周晓玲**, 李蒙阳
    
 # 🎖 Awards
-- *2024.01* &nbsp; 入选&nbsp;&nbsp;&nbsp;2023年度中国电子学会博士/硕士学位论文激励计划 
+- *2024.01* &nbsp; 入选&nbsp;&nbsp;&nbsp;2023年度中国电子学会博士/硕士学位论文激励计划（全国仅43篇） 
 - *2019.06* &nbsp; 国家级大学生创新项目结题 [主持人]&nbsp;&nbsp;&nbsp;国家级
 - *2018.05* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;国家级特等奖
 - *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;省部级特等奖
