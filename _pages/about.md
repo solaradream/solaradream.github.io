@@ -105,6 +105,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;&nbsp;&nbsp;省部级三等奖
 
 # 🎖 Honors
+- *2024.10* &nbsp; 博士研究生国家奖学金
 - *2024.10* &nbsp; 北京大学三好学生
 - *2019.12* &nbsp; 本科生国家奖学金
 - *2022.12* &nbsp; 硕士研究生国家奖学金
