@@ -24,6 +24,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 一篇论文被**AAAI 2025**接收. (Logit adjustment)
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training)
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
 - *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Data augmentation)
@@ -35,6 +36,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training & Imbalance learning)
 
 # 📝 Publications 
+- `AAAI 2025` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning](https://ieeexplore.ieee.org/abstract/document/10608444)
+
+  **Xiaoling Zhou**, Ou Wu, Nan Yang.
+  
 - `IEEE TPAMI 2024` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu, Nan Yang.
@@ -85,7 +90,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
    Rui Wang, **Xiaoling Zhou**, Jian Wu, Ou Wu.
 
 # 📝 Patents
--  一种可解释性的深度学习样本赋权方法,  <span style="color:red">发明专利</span>, P. R. China Patent: CN115730651A
+-  一种可解释性的深度学习样本赋权方法,  <span style="color:red">发明专利</span>, P. R. China Patent: CN 115730651 A
 
    吴偶, **周晓玲**, 李蒙阳
    
