@@ -129,4 +129,6 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
   - Supervised by Prof. [Ou Wu (吴偶)](https://math.tju.edu.cn/info/1715/5610.htm)
 
 # 💻 Services
-Program Committee (PC) Member: ICLR2025, IEEE TIP, IEEE TCSVT, Journal of Supercomputing.
+Program Committee (PC) Member: 
+ICLR2025, CVPR 2025. 
+IEEE TIP, IEEE TCSVT, Journal of Supercomputing.
