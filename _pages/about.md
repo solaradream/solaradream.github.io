@@ -130,6 +130,6 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 💻 Services
 Program Committee (PC) Member:<br> 
-ICLR2025, CVPR 2025.<br> 
-IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
-
+  - ICLR2025, CVPR 2025.<br> 
+  - IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
+<br>
