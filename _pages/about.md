@@ -40,11 +40,11 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
   **Xiaoling Zhou**, Ou Wu, Nan Yang.
   
-- `IEEE TPAMI 2024` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+- `2024, IEEE TPAMI` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu, Nan Yang.
   
-- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
+- ``2024, IEEE TKDE`` <span style="color:red">(CCF Rank A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
    **Xiaoling Zhou**, Ou Wu, Mengyang Li.
   
@@ -61,7 +61,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Nan Yang, Ou Wu.
   
-- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``2023, IEEE TNNLS`` <span style="color:red">(CCF Rank B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, Ou Wu.
   
@@ -69,7 +69,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
   
-- ``KBS 2022`` <span style="color:red">(CCF Rank C)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
+- ``2022, KBS`` <span style="color:red">(CCF Rank C)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu, Chao Jiang.
   
