@@ -61,7 +61,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Nan Yang, Ou Wu.
   
-- ``2023, IEEE TNNLS`` <span style="color:red">(CCF Rank B)</span> [Which samples should be learned first: Easy or hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``2023, IEEE TNNLS`` <span style="color:red">(CCF Rank B)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, Ou Wu.
   
@@ -69,15 +69,15 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, Ou Wu, Weiyao Zhu, Ziyang Liang.
   
-- ``2022, KBS`` <span style="color:red">(CCF Rank C)</span> [Increasing naturalness of human–machine dialogue: The users’ choices inference of options in machine-raised questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
+- ``2022, KBS`` <span style="color:red">(CCF Rank C)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu, Chao Jiang.
   
-- ``ACPR 2021`` [Drop “noise” edge: an approximation of the Bayesian GNNs](https://link.springer.com/chapter/10.1007/978-3-031-02444-3_5)
+- ``ACPR 2021`` [Drop “Noise” Edge: An Approximation of the Bayesian GNNs](https://link.springer.com/chapter/10.1007/978-3-031-02444-3_5)
 
    **Xiaoling Zhou**, Ou Wu.
   
-- ``arXiv preprint`` [Implicit counterfactual data augmentation for deep neural networks](https://arxiv.org/abs/2304.13431)
+- ``arXiv preprint`` [Implicit Counterfactual Data Augmentation for Deep Neural Networks](https://arxiv.org/abs/2304.13431)
 
    **Xiaoling Zhou**, Ou Wu, Michael K. Ng.
   
@@ -117,7 +117,8 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2020.05* &nbsp; 入选 2020年本专科生国家奖学金获奖学生代表名录
 - *2019.12* &nbsp; 天津市大学生创新奖学金
 - *2021.12* &nbsp; 中国石油奖学金
-- *2019.09* &nbsp; 天津大学研究生学业一等奖学金
+- *2022.12* &nbsp; 天津大学三好学生
+- *2020.12* &nbsp; 天津大学研究生学业一等奖学金
 - *2023.06* &nbsp; 天津大学优秀毕业生
 - *2023.06* &nbsp; 天津大学优秀硕士学位论文
 - *2022.10* &nbsp; 天津大学优秀学生干部
