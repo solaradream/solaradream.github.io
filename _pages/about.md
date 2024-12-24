@@ -121,7 +121,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2020.12* &nbsp; 天津大学研究生学业一等奖学金
 - *2023.06* &nbsp; 天津大学优秀毕业生
 - *2023.06* &nbsp; 天津大学优秀硕士学位论文
-- *2022.10* &nbsp; 天津大学优秀学生干部
+- *2022.12* &nbsp; 天津大学优秀学生干部
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
