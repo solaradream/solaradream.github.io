@@ -92,7 +92,11 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 📝 Patents
 -  一种可解释性的深度学习样本赋权方法,  <span style="color:red">发明专利</span>, P. R. China Patent: CN 115730651 A
 
-   吴偶, **周晓玲**, 李蒙阳
+   吴偶 (导师), **周晓玲**, 李蒙阳
+
+-  "爱骑"软件 V1.0,  <span style="color:red">软件著作权</span>, S. R. China Software Copyright: 2019SR0533606
+
+   **周晓玲**, 王雪娜, 李政斌, 李竣玺, 翟巧灵, 过昱企
    
 # 🎖 Awards
 - *2024.01* &nbsp; 入选&nbsp;&nbsp;2023年度中国电子学会硕士学位论文激励计划（全国仅43篇） 
