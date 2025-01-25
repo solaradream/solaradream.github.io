@@ -24,6 +24,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 一篇论文被**ICLR 2025**接收. (LLM Hallucination Detection and Mitigation)
 - *2024.12*: &nbsp;🎉🎉 一篇论文被**AAAI 2025**接收. (Long-tail learning)
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial training)
 - *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-context learning)
@@ -36,7 +37,11 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial training & Imbalance learning)
 
 # 📝 Publications 
-- `AAAI 2025` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
+- `ICLR 2025` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
+
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye, Shikun Zhang.
+  
+- `AAAI 2025` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning](http://cam.tju.edu.cn/en/research/downAchiev.php?id=825)
 
   **Xiaoling Zhou**, Ou Wu, Nan Yang.
   
