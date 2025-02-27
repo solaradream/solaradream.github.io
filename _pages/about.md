@@ -27,9 +27,9 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2025.01*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Knowledge and Data Engineering(TKDE)**接收. (In-Context Learning & Causal Inference)
 - *2025.01*: &nbsp;🎉🎉 一篇论文被**CVPR 2025**接收. (High Performance Computing & Data Optimization)
 - *2025.01*: &nbsp;🎉🎉 一篇论文被**ICLR 2025**接收. (Hallucination Detection & Mitigation)
-- *2024.12*: &nbsp;🎉🎉 一篇论文被**AAAI 2025**接收. (Long-tail learning)
+- *2024.12*: &nbsp;🎉🎉 一篇论文被**AAAI 2025**接收. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**接收. (Adversarial Training)
-- *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-Context learning)
+- *2024.05*: &nbsp;🎉🎉 一篇论文被**ACL 2024**接收. (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 一篇论文被**IJCAI 2024**接收. (Data Augmentation)
 - *2024.01*: &nbsp;🎉🎉 入选 2023年度中国电子学会硕士学位论文激励计划 
 - *2023.09*: &nbsp;🎉🎉 一篇论文被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Data Weighting & Learning Difficulty)
