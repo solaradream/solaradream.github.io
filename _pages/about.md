@@ -27,6 +27,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2025.04*: &nbsp;🎉🎉 一篇论文被**IJCAI 2025** 接收. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Knowledge and Data Engineering(TKDE)** 接收. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 一篇论文被**CVPR 2025** 接收. (High Performance Computing & Data Optimization)
+- *2025.02*: &nbsp;🎉🎉 入选 2024年度**百度奖学金** (全球仅10人)
 - *2025.01*: &nbsp;🎉🎉 一篇论文被**ICLR 2025** 接收. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 一篇论文被**AAAI 2025** 接收. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** 接收. (Adversarial Training)
