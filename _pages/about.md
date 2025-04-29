@@ -24,6 +24,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 一篇论文被**IJCAI 2025** 接收. (Robustness and Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 一篇论文被**IEEE Transactions on Knowledge and Data Engineering(TKDE)** 接收. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 一篇论文被**CVPR 2025** 接收. (High Performance Computing & Data Optimization)
 - *2025.01*: &nbsp;🎉🎉 一篇论文被**ICLR 2025** 接收. (Hallucination Detection & Mitigation)
@@ -39,23 +40,27 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2023.02*: &nbsp;🎉🎉 一篇论文被 **AAAI 2023** (Oral)接收. (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
-- `2025 TKDE` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
+- ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
+
+  **Xiaoling Zhou**, Wei Ye#, Zhemg Lee, and Shikun Zhang#.
+
+- ``2025 TKDE`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
 
   **Xiaoling Zhou**, Wei Ye#, Zhemg Lee, Lei Zou, and Shikun Zhang#.
 
-- `CVPR 2025` <span style="color:red">(CCF Rank A)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
+- ``CVPR 2025`` <span style="color:red">(CCF Rank A)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
   **Xiaoling Zhou**, Zhemg Lee, Wei Ye#, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li#, and Shikun Zhang#.
 
-- `ICLR 2025` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
+- ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
   **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye#, and Shikun Zhang#.
   
-- `AAAI 2025` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
+- ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
 
   **Xiaoling Zhou**, Ou Wu#, and Nan Yang.
   
-- `2024, IEEE TPAMI` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+- ``2024, IEEE TPAMI`` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu#, and Nan Yang.
   
@@ -128,6 +133,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;&nbsp;&nbsp;省部级三等奖
 
 # 🎖 Honors
+- *2025.02* &nbsp; 入选&nbsp;&nbsp;百度奖学金（2024年度，全球仅10人）
 - *2024.01* &nbsp; 入选&nbsp;&nbsp;2023年度中国电子学会硕士学位论文激励计划（全国仅43篇） 
 - *2024.12* &nbsp; 博士研究生国家奖学金
 - *2024.10* &nbsp; 北京大学三好学生
