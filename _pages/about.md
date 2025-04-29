@@ -156,6 +156,6 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 💻 Services
 Program Committee (PC) Members:<br> 
-  - ICLR 2025, CVPR 2025, ACL 2025.<br> 
+  - ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
   - IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
 <br>
