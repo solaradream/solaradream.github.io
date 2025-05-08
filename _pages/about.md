@@ -47,72 +47,72 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 - ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
 
-  **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang#.
+  **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang<sup>†</sup>.
 
 - ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight paper)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
-  **Xiaoling Zhou***, Zhemg Lee, Wei Ye<sup>†</sup>, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
+  **Xiaoling Zhou***, Zhemg Lee*, Wei Ye<sup>†</sup>, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
 
 - ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
-  **Xiaoling Zhou<sup>*</sup>**, Mingjie Zhang, Zhemg Lee<sup>*</sup>, Wei Ye†, and Shikun Zhang†.
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
   
 - ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
 
-  **Xiaoling Zhou**, Ou Wu†, and Nan Yang.
+  **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Nan Yang.
   
 - ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
-  **Xiaoling Zhou**, Ou Wu#, and Nan Yang.
+  **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Nan Yang.
   
 - ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
-   **Xiaoling Zhou**, Ou Wu#, and Mengyang Li.
+   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Mengyang Li.
   
 - ``ACL 2024`` <span style="color:red">(CCF Rank A, Long paper)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://aclanthology.org/2024.acl-long.155/)
 
-   **Xiaoling Zhou**, Wei Ye#, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, and Shikun Zhang#.
+   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, and Shikun Zhang<sup>†</sup>.
   
 
 - ``IJCAI 2024`` <span style="color:red">(CCF Rank A, Oral)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
 
-   **Xiaoling Zhou**, Wei Ye#, Zhemg Lee, Rui Xie, and Shikun Zhang#.
+   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Rui Xie, and Shikun Zhang<sup>†</sup>.
   
 - ``AAAI 2023`` <span style="color:red">(CCF Rank A, Oral)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
 
-   **Xiaoling Zhou**, Nan Yang, and Ou Wu#.
+   **Xiaoling Zhou**, Nan Yang, and Ou Wu<sup>†</sup>.
   
 - ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
-   **Xiaoling Zhou**, and Ou Wu#.
+   **Xiaoling Zhou**, and Ou Wu<sup>†</sup>.
 
 - ``Information Sciences 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation]()
 
-   **Xiaoling Zhou**, Wei Ye†, Rui Xie, and Shikun Zhang†.
+   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Rui Xie, and Shikun Zhang<sup>†</sup>.
   
 - ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B, Oral)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
-   **Xiaoling Zhou**, Ou Wu#, Weiyao Zhu, and Ziyang Liang.
+   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, Weiyao Zhu, and Ziyang Liang.
   
 - ``KBS 2022`` <span style="color:red">(CCF Rank C)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
-   **Xiaoling Zhou**, Ou Wu#, and Chao Jiang.
+   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Chao Jiang.
   
 - ``ACPR 2021`` [Drop “Noise” Edge: An Approximation of the Bayesian GNNs](https://link.springer.com/chapter/10.1007/978-3-031-02444-3_5)
 
-   **Xiaoling Zhou**, and Ou Wu#.
+   **Xiaoling Zhou**, and Ou Wu<sup>†</sup>.
   
 - ``arXiv preprint`` [Implicit Counterfactual Data Augmentation for Deep Neural Networks](https://arxiv.org/abs/2304.13431)
 
-   **Xiaoling Zhou**, Ou Wu#, and Michael K. Ng.
+   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Michael K. Ng.
   
 - ``arXiv preprint`` [Data Valuation by Leveraging Global and Local Statistical Information](https://arxiv.org/abs/2405.17464)
 
-   **Xiaoling Zhou**, Ou Wu#, Michael K. Ng, and Hao Jiang.
+   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, Michael K. Ng, and Hao Jiang.
   
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
-   Rui Wang, **Xiaoling Zhou**, Jian Wu, and Ou Wu#.
+   Rui Wang, **Xiaoling Zhou**, Jian Wu, and Ou Wu<sup>†</sup>.
 
 # 📝 Patents
 -  一种可解释性的深度学习样本赋权方法,  <span style="color:red">发明专利</span>, P. R. China Patent: CN 115730651 A
