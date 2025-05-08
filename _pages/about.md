@@ -26,19 +26,19 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (In-Context Learning & Causal Inference)
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (Highlight paper). (High Performance Computing & Data Optimization)
-- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **Baidu Scholarship** (Top 10 globally)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight paper</span>). (High Performance Computing & Data Optimization)
+- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **<span style="color:red">Baidu Scholarship</span>** (Top 10 globally)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
-- *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
-- *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (Oral). (Data Augmentation)
-- *2024.01*: &nbsp;🎉🎉 Selected for the 2023 China Electronics Society Master's Thesis Incentive Program (Top 43). 
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (<span style="color:red">Long paper</span>). (In-Context Learning)
+- *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (<span style="color:red">Oral</span>). (Data Augmentation)
+- *2024.01*: &nbsp;🎉🎉 Selected for the 2023 China Electronics Society Master's Thesis Incentive Program (2023年度中国电子学会硕士学位论文激励计划) (Top 43). 
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (Data Weighting & Learning Difficulty)
 - *2023.09*: &nbsp;🎉🎉 Commenced Ph.D. studies at Peking University.
 - *2023.06*: &nbsp;🎉🎉 Received Tianjin University's Outstanding Master's Thesis Award.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)**. (Learning Difficulty)
-- *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
+- *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (<span style="color:red">Oral</span>). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
 - ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
