@@ -24,21 +24,21 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 一篇文章被**IJCAI 2025** 接收. (Robustness & Spurious Correlations)
-- *2025.02*: &nbsp;🎉🎉 一篇文章被**IEEE Transactions on Knowledge and Data Engineering(TKDE)** 接收. (In-Context Learning & Causal Inference)
-- *2025.02*: &nbsp;🎉🎉 一篇文章被**CVPR 2025** 接收为Highlight paper. (High Performance Computing & Data Optimization)
-- *2025.02*: &nbsp;🎉🎉 入选 2024年度**百度奖学金** (全球仅10人)
-- *2025.01*: &nbsp;🎉🎉 一篇文章被**ICLR 2025** 接收. (Hallucination Detection & Mitigation)
-- *2024.12*: &nbsp;🎉🎉 一篇文章被**AAAI 2025** 接收. (Long-Tail Learning)
-- *2024.07*: &nbsp;🎉🎉 一篇文章被**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** 接收. (Adversarial Training)
-- *2024.05*: &nbsp;🎉🎉 一篇文章被**ACL 2024** 接收为Long paper. (In-Context Learning)
-- *2024.03*: &nbsp;🎉🎉 一篇文章被**IJCAI 2024** (Oral)接收. (Data Augmentation)
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (In-Context Learning & Causal Inference)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (Highlight paper). (High Performance Computing & Data Optimization)
+- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **Baidu Scholarship** (全球Top 10)
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
+- *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (Oral). (Data Augmentation)
 - *2024.01*: &nbsp;🎉🎉 入选 2023年度中国电子学会硕士学位论文激励计划 
-- *2023.09*: &nbsp;🎉🎉 一篇文章被 **IEEE Transactions on Knowledge and Data Engineering(TKDE)** 期刊接收. (Data Weighting & Learning Difficulty)
+- *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (Data Weighting & Learning Difficulty)
 - *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
 - *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
-- *2023.06*: &nbsp;🎉🎉 一篇文章被 **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)** 期刊接收. (Learning Difficulty)
-- *2023.02*: &nbsp;🎉🎉 一篇文章被 **AAAI 2023** (Oral)接收. (Adversarial Training & Imbalance Learning)
+- *2023.06*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)**. (Learning Difficulty)
+- *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
 - ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
