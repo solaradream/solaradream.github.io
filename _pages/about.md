@@ -43,7 +43,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 📝 Publications 
 - ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
 
-  **Xiaoling Zhou**, Wei Ye#, Zhemg Lee, and Shikun Zhang#.
+  **Xiaoling Zhou**, Wei Ye†, Zhemg Lee, and Shikun Zhang†.
 
 - ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
 
@@ -51,15 +51,15 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 - ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight paper)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
-  **Xiaoling Zhou**, Zhemg Lee, Wei Ye#, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li#, and Shikun Zhang#.
+  **Xiaoling Zhou**, Zhemg Lee, Wei Ye†, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li†, and Shikun Zhang†.
 
 - ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
-  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye#, and Shikun Zhang#.
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye†, and Shikun Zhang†.
   
 - ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
 
-  **Xiaoling Zhou**, Ou Wu#, and Nan Yang.
+  **Xiaoling Zhou**, Ou Wu†, and Nan Yang.
   
 - ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
@@ -88,7 +88,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 - ``Information Sciences 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation]()
 
-   **Xiaoling Zhou**, Wei Ye#, Rui Xie and Shikun Zhang#.
+   **Xiaoling Zhou**, Wei Ye†, Rui Xie, and Shikun Zhang†.
   
 - ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B, Oral)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
