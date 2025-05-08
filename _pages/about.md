@@ -43,15 +43,15 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 📝 Publications 
 - ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
 
-  **Xiaoling Zhou**, Wei Ye†, Zhemg Lee, and Shikun Zhang†.
+  **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, and Shikun Zhang<sup>†</sup>.
 
 - ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
 
-  **Xiaoling Zhou**, Wei Ye#, Zhemg Lee, Lei Zou, and Shikun Zhang#.
+  **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang#.
 
 - ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight paper)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
-  **Xiaoling Zhou**, Zhemg Lee, Wei Ye†, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li†, and Shikun Zhang†.
+  **Xiaoling Zhou<sup>*</sup>**, Zhemg Lee<sup>*</sup>, Wei Ye†, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li†, and Shikun Zhang†.
 
 - ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
