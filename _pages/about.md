@@ -31,7 +31,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
-- *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (<span style="color:red">Long paper</span>). (In-Context Learning)
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (<span style="color:red">Oral</span>). (Data Augmentation)
 - *2024.01*: &nbsp;🎉🎉 Selected for the <span style="color:red">2023 China Electronics Society Master's Thesis Incentive Program (2023年度中国电子学会硕士学位论文激励计划)</span> (Top 43). 
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (Data Weighting & Learning Difficulty)
