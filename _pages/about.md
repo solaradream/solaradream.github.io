@@ -27,7 +27,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (Highlight paper). (High Performance Computing & Data Optimization)
-- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **Baidu Scholarship** (全球Top 10)
+- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **Baidu Scholarship** (Top 10 globally)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
