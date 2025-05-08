@@ -85,6 +85,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, and Ou Wu#.
+
+- ``Information Sciences 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation]()
+
+   **Xiaoling Zhou**, Wei Ye#, Rui Xie and Shikun Zhang#.
   
 - ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B, Oral)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
 
