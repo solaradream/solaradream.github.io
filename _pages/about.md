@@ -33,10 +33,10 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (Oral). (Data Augmentation)
-- *2024.01*: &nbsp;🎉🎉 入选 2023年度中国电子学会硕士学位论文激励计划 
+- *2024.01*: &nbsp;🎉🎉 Selected for the 2023 China Electronics Society Master's Thesis Incentive Program. 
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (Data Weighting & Learning Difficulty)
-- *2023.09*: &nbsp;🎉🎉 北京大学博士研究生
-- *2023.06*: &nbsp;🎉🎉 天津大学优秀硕士学位论文
+- *2023.09*: &nbsp;🎉🎉 Commenced Ph.D. studies at Peking University.
+- *2023.06*: &nbsp;🎉🎉 Received Tianjin University's Outstanding Master's Thesis Award.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Neural Networks and Learning Systems(TNNLS)**. (Learning Difficulty)
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
 
