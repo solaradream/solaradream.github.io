@@ -86,7 +86,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **Xiaoling Zhou**, and Ou Wu<sup>†</sup>.
 
-- ``Information Sciences 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation]()
+- ``INS 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation]()
 
    **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Rui Xie, and Shikun Zhang<sup>†</sup>.
   
