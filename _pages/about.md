@@ -26,7 +26,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (In-Context Learning & Causal Inference)
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight paper</span>). (High Performance Computing & Data Optimization)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight</span>). (High Performance Computing & Data Optimization)
 - *2025.02*: &nbsp;🎉🎉 Awarded 2024 **<span style="color:red">Baidu Scholarship</span>** (10 Ph.D students worldwide)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
@@ -49,7 +49,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang<sup>†</sup>.
 
-- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight paper)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
+- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
   **Xiaoling Zhou\***, Zhemg Lee\*, Wei Ye<sup>†</sup>, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
 
