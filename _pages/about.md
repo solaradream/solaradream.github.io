@@ -27,13 +27,13 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight</span>). (High Performance Computing & Data Optimization)
-- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **<span style="color:red">Baidu Scholarship</span>** (10 Ph.D students worldwide)
+- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **<span style="color:red">Baidu Scholarship (百度奖学金)</span>** (10 Ph.D students worldwide)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (<span style="color:red">Oral</span>). (Data Augmentation)
-- *2024.01*: &nbsp;🎉🎉 Selected for the <span style="color:red">2023 China Electronics Society Master's Thesis Incentive Program (2023年度中国电子学会硕士学位论文激励计划)</span> (43 M.Sc students nationwide). 
+- *2024.01*: &nbsp;🎉🎉 Selected for the <span style="color:red">2023 Chinese Institute of Electronics Master's Thesis Incentive Program (2023年度中国电子学会硕士学位论文激励计划)</span> (43 M.Sc students nationwide). 
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering(TKDE)**. (Data Weighting & Learning Difficulty)
 - *2023.09*: &nbsp;🎉🎉 Commenced Ph.D. studies at Peking University.
 - *2023.06*: &nbsp;🎉🎉 Received Tianjin University's Outstanding Master's Thesis Award.
