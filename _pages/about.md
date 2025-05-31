@@ -45,7 +45,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, and Shikun Zhang<sup>†</sup>.
 
-- ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://github.com/xiaolingzhou98/AME-ICL)
+- ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
 
   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang<sup>†</sup>.
 
@@ -57,7 +57,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
   **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
   
-- ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning]()
+- ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34462)
 
   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Nan Yang.
   
