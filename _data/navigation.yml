@@ -11,12 +11,12 @@ main:
 
   - title: "Patents"
     url: "/#-patents"
+
+   - title: "Honors"
+    url: "/#-honors"
     
   - title: "Awards"
     url: "/#-awards"
-
-  - title: "Honors"
-    url: "/#-honors"
 
   - title: "Educations"
     url: "/#-educations"
