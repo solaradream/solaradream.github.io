@@ -123,6 +123,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
    **周晓玲**, 王雪娜, 李政斌, 李竣玺, 翟巧灵, 过昱企
 
+
 # 🎖 Honors
 - *2025.02* &nbsp; 入选&nbsp;&nbsp;百度奖学金（2024年度，全球仅10人）
 - *2024.12* &nbsp; 北京大学博士研究生国家奖学金
@@ -138,6 +139,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2020.05* &nbsp; 入选 2020年本专科生国家奖学金获奖学生代表名录
 - *2019.12* &nbsp; 本科生国家奖学金
 - *2019.12* &nbsp; 天津市大学生创新奖学金
+
  
 # 🎖 Awards
 - *2019.06* &nbsp; 国家级大学生创新项目结题 [主持]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级
@@ -153,11 +155,13 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 - *2018.06* &nbsp; “泰迪杯”全国数据挖掘挑战赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级三等奖
 - *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;&nbsp;&nbsp;省部级三等奖
 
+
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
   - Supervised by Prof. Shikun Zhang (张世琨) and Prof. [Wei Ye (叶蔚)](https://se.pku.edu.cn/kcl/weiye/)
 - *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
   - Supervised by Prof. [Ou Wu (吴偶)](https://www.scholat.com/wuou)
+
 
 # 💻 Services
 Program Committee (PC) Members:<br> 
