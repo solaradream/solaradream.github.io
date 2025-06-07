@@ -126,7 +126,7 @@ Feel free to contact me for communication and collaboration by my [email](xiaoli
 
 # 🎖 Honors
 - *2025.02* &nbsp; 入选&nbsp;&nbsp;百度奖学金（2024年度，全球仅10人）
-- *2024.12* &nbsp; 北京大学博士研究生国家奖学金
+- *2024.12* &nbsp; 博士研究生国家奖学金
 - *2024.10* &nbsp; 北京大学三好学生
 - *2024.01* &nbsp; 入选&nbsp;&nbsp;2023年度中国电子学会硕士学位论文激励计划（全国仅43篇）
 - *2023.06* &nbsp; 天津大学优秀毕业生
