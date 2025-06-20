@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 Hello! I am Xiaoling Zhou, currently pursuing a Ph.D. degree at the [KCL Lab](https://se.pku.edu.cn/kcl/), National Engineering Research Center for Software Engineering, Peking University, Beijing, China. I am under the supervision of Professors Shikun Zhang and [Wei Ye](https://se.pku.edu.cn/kcl/weiye/). My research interests encompass a wide range of topics, including deep learning, natural language processing (large language models), and knowledge computing. Moreover, I believe that data is the cornerstone of artificial intelligence and focus on data-centric AI.
 
-Feel free to contact me for communication and collaboration by my email: xiaolingzhou@stu.pku.edu.cn and link: [https://solaradream.github.io/](https://solaradream.github.io/).
+Feel free to contact me for communication and collaboration by my email: [xiaolingzhou@stu.pku.edu.cn](xiaolingzhou@stu.pku.edu.cn) and link: [https://solaradream.github.io/](https://solaradream.github.io/).
 
 
 # 🔥 News
