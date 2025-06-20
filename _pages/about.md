@@ -27,7 +27,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (In-Context Learning & Causal Inference)
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight</span>). (High Performance Computing & Data Optimization)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight</span>). (High-Performance Computing & Data Optimization)
 - *2025.02*: &nbsp;🎉🎉 Awarded 2024 **<span style="color:red">Baidu Scholarship (百度奖学金)</span>** (10 Ph.D students worldwide)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
