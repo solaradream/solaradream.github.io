@@ -45,7 +45,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, and Shikun Zhang<sup>†</sup>.
 
-- ``TKDE 2025`` <span style="color:red">(CCF Rank A)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
+- ``TKDE 2025`` <span style="color:red">(CCF Rank A, 中科院一区TOP)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
 
   **Xiaoling Zhou**, Wei Ye<sup>†</sup>, Zhemg Lee, Lei Zou, and Shikun Zhang<sup>†</sup>.
 
@@ -61,11 +61,11 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Nan Yang.
   
-- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A, 中科院一区TOP)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Nan Yang.
   
-- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
+- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A, 中科院一区TOP)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
    **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Mengyang Li.
   
@@ -82,7 +82,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Nan Yang, and Ou Wu<sup>†</sup>.
   
-- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B, 中科院一区TOP)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, and Ou Wu<sup>†</sup>.
 
@@ -94,7 +94,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Ou Wu<sup>†</sup>, Weiyao Zhu, and Ziyang Liang.
   
-- ``KBS 2022`` <span style="color:red">(CCF Rank C)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
+- ``KBS 2022`` <span style="color:red">(CCF Rank C, 中科院一区TOP)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu<sup>†</sup>, and Chao Jiang.
   
