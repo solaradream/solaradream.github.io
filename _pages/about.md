@@ -24,6 +24,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Selected for the <span style="color:red">CIE-Tencent Doctoral Research Incentive Project (中国电子学会—腾讯博士生科研激励计划(混元大模型专项))</span> (23 Ph.D students nationwide). 
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (<span style="color:red">Highlight</span>). (High-Performance Computing & Data Optimization)
@@ -125,6 +126,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🎖 Honors
+- *2025.07* &nbsp; 入选&nbsp;中国电子学会—腾讯博士生科研激励计划(混元大模型专项) (2025年度，全国仅23人)
 - *2025.02* &nbsp; 入选&nbsp;百度奖学金 (2024年度，全球仅10人)
 - *2024.12* &nbsp; 博士研究生国家奖学金
 - *2024.10* &nbsp; 北京大学三好学生
