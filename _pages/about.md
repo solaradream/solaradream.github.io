@@ -148,7 +148,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2018.06* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级特等奖
 - *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;省部级特等奖
 - *2019.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国际级一等奖
-- *2018.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级一等奖
+- *2018.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级一等奖
 - *2017.11* &nbsp; 全国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;省部级一等奖
 - *2020.12* &nbsp; 中国研究生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级二等奖
 - *2018.11* &nbsp; 全国大学生数学竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;省部级二等奖
@@ -156,68 +156,57 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2017.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级二等奖
 - *2018.06* &nbsp; “泰迪杯”全国数据挖掘挑战赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家级三等奖
 - *2018.06* &nbsp; 挑战杯天津市大学生课外学术科技作品竞赛&nbsp;&nbsp;&nbsp;省部级三等奖
-<table style="width:100%; font-size:15px; line-height:1.8;">
-  <tr>
-    <td style="width:100px;"><i>2019.06</i></td>
-    <td>国家级大学生创新项目结题 [主持]</td>
-    <td style="text-align:left; white-space:nowrap;">国家级</td>
-  </tr>
-  <tr>
-    <td><i>2018.06</i></td>
-    <td>Mathorcup 全球大学生数学建模挑战赛</td>
-    <td style="text-align:left;">国家级特等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.06</i></td>
-    <td>天津市大学生物理竞赛</td>
-    <td style="text-align:left;">省部级特等奖</td>
-  </tr>
-  <tr>
-    <td><i>2019.04</i></td>
-    <td>美国大学生数学建模竞赛</td>
-    <td style="text-align:left;">国际级一等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.05</i></td>
-    <td>全国大学生英语竞赛</td>
-    <td style="text-align:left;">国家级一等奖</td>
-  </tr>
-  <tr>
-    <td><i>2017.11</i></td>
-    <td>全国大学生数学建模竞赛</td>
-    <td style="text-align:left;">省部级一等奖</td>
-  </tr>
-  <tr>
-    <td><i>2020.12</i></td>
-    <td>中国研究生数学建模竞赛</td>
-    <td style="text-align:left;">国家级二等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.11</i></td>
-    <td>全国大学生数学竞赛</td>
-    <td style="text-align:left;">省部级二等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.04</i></td>
-    <td>美国大学生数学建模竞赛</td>
-    <td style="text-align:left;">国际级二等奖</td>
-  </tr>
-  <tr>
-    <td><i>2017.05</i></td>
-    <td>全国大学生英语竞赛</td>
-    <td style="text-align:left;">国家级二等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.06</i></td>
-    <td>“泰迪杯”全国数据挖掘挑战赛</td>
-    <td style="text-align:left;">国家级三等奖</td>
-  </tr>
-  <tr>
-    <td><i>2018.06</i></td>
-    <td>挑战杯天津市大学生课外学术科技作品竞赛</td>
-    <td style="text-align:left;">省部级三等奖</td>
-  </tr>
-</table>
+
+# 🎖 Awards
+
+<div style="display: flex; flex-direction: column; gap: 6px; font-size: 15px;">
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2019.06</i> 国家级大学生创新项目结题 [主持]</span>
+    <span>国家级</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.06</i> Mathorcup 全球大学生数学建模挑战赛</span>
+    <span>国家级特等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.06</i> 天津市大学生物理竞赛</span>
+    <span>省部级特等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2019.04</i> 美国大学生数学建模竞赛</span>
+    <span>国际级一等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.05</i> 全国大学生英语竞赛</span>
+    <span>国家级一等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2017.11</i> 全国大学生数学建模竞赛</span>
+    <span>省部级一等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2020.12</i> 中国研究生数学建模竞赛</span>
+    <span>国家级二等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.11</i> 全国大学生数学竞赛</span>
+    <span>省部级二等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.04</i> 美国大学生数学建模竞赛</span>
+    <span>国际级二等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2017.05</i> 全国大学生英语竞赛</span>
+    <span>国家级二等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.06</i> “泰迪杯”全国数据挖掘挑战赛</span>
+    <span>国家级三等奖</span>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <span><i>2018.06</i> 挑战杯天
+
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. student at Peking University, National Engineering Research Center for Software Engineering.
