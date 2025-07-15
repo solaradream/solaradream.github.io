@@ -159,53 +159,18 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 🎖 Awards
 
-<div style="display: flex; flex-direction: column; gap: 6px; font-size: 15px;">
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2019.06</i> 国家级大学生创新项目结题 [主持]</span>
-    <span>国家级</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.06</i> Mathorcup 全球大学生数学建模挑战赛</span>
-    <span>国家级特等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.06</i> 天津市大学生物理竞赛</span>
-    <span>省部级特等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2019.04</i> 美国大学生数学建模竞赛</span>
-    <span>国际级一等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.05</i> 全国大学生英语竞赛</span>
-    <span>国家级一等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2017.11</i> 全国大学生数学建模竞赛</span>
-    <span>省部级一等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2020.12</i> 中国研究生数学建模竞赛</span>
-    <span>国家级二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.11</i> 全国大学生数学竞赛</span>
-    <span>省部级二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.04</i> 美国大学生数学建模竞赛</span>
-    <span>国际级二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2017.05</i> 全国大学生英语竞赛</span>
-    <span>国家级二等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.06</i> “泰迪杯”全国数据挖掘挑战赛</span>
-    <span>国家级三等奖</span>
-  </div>
-  <div style="display: flex; justify-content: space-between;">
-    <span><i>2018.06</i> 挑战杯天
+- *2019.06* 国家级大学生创新项目结题 [主持] …… 国家级  
+- *2018.06* Mathorcup 全球大学生数学建模挑战赛 …… 国家级特等奖  
+- *2018.06* 天津市大学生物理竞赛 …… 省部级特等奖  
+- *2019.04* 美国大学生数学建模竞赛 …… 国际级一等奖  
+- *2018.05* 全国大学生英语竞赛 …… 国家级一等奖  
+- *2017.11* 全国大学生数学建模竞赛 …… 省部级一等奖  
+- *2020.12* 中国研究生数学建模竞赛 …… 国家级二等奖  
+- *2018.11* 全国大学生数学竞赛 …… 省部级二等奖  
+- *2018.04* 美国大学生数学建模竞赛 …… 国际级二等奖  
+- *2017.05* 全国大学生英语竞赛 …… 国家级二等奖  
+- *2018.06* “泰迪杯”全国数据挖掘挑战赛 …… 国家级三等奖  
+- *2018.06* 挑战杯天津市大学生课外学术科技作品竞赛 …… 省部级三等奖
 
 
 # 📖 Educations
