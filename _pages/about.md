@@ -52,7 +52,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 - ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
 
-  **Xiaoling Zhou\***, Zhemg Lee\*, Wei Ye<sup>†</sup>, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li<sup>†</sup>, and Shikun Zhang<sup>†</sup>.
+  **Xiaoling Zhou#**, Zhemg Lee#, Wei Ye\*, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li\*, and Shikun Zhang\*.
 
 - ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
@@ -167,6 +167,6 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 💻 Services
 Program Committee (PC) Members:<br> 
-  - NeurIPS, ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
+  - NeurIPS, AAAI, ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
   - IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
 <br>
