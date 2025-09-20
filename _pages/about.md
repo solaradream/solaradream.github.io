@@ -42,7 +42,11 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (<span style="color:red">Oral</span>). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
-- ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer]()
+- ``NeurIPS 2025`` <span style="color:red">(CCF Rank A)</span> [Boosting Resilience of Large Language Models through Causality-Driven Robust Optimization](https://www.ijcai.org/proceedings/2025/0799)
+
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+  
+- ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer](https://www.ijcai.org/proceedings/2025/0799)
 
   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, and Shikun Zhang\*.
 
@@ -50,7 +54,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Lei Zou, and Shikun Zhang\*.
 
-- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising]()
+- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising](https://ieeexplore.ieee.org/abstract/document/11092318)
 
   **Xiaoling Zhou<sup>#</sup>**, Zhemg Lee<sup>#</sup>, Wei Ye\*, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li\*, and Shikun Zhang\*.
 
