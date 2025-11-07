@@ -25,7 +25,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IJCV 2025**. (Robustness & Spurious Correlations)
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2025**. (LLMs & Causal Reasoning)
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2025**. (LLMs & Causal Reasoning)
 - *2025.07*: &nbsp;🎉🎉 Selected for the **<span style="color:red">CIE-Tencent Doctoral Research Incentive Project (中国电子学会—腾讯博士生科研激励计划(混元大模型专项))</span>** (23 Ph.D students nationwide). 
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (In-Context Learning & Causal Inference)
