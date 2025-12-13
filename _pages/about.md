@@ -24,6 +24,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 入选 国家自然科学基金委员会青年学生基础研究项目（博士研究生）
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IJCV 2025**. (Robustness & Spurious Correlations)
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2025**. (LLMs & Causal Reasoning)
 - *2025.07*: &nbsp;🎉🎉 Selected for the **<span style="color:red">CIE-Tencent Doctoral Research Incentive Project (中国电子学会—腾讯博士生科研激励计划(混元大模型专项))</span>** (23 Ph.D students nationwide). 
@@ -139,6 +140,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🎖 Honors
+- *2025.12* &nbsp; 国家自然科学基金委员会青年学生基础研究项目（博士研究生）
 - *2025.10* &nbsp; 博士研究生国家奖学金
 - *2025.10* &nbsp; 北京大学学术创新奖
 <!--- *2025.10* &nbsp; 北京大学学术创新奖-->
