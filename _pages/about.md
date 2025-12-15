@@ -24,7 +24,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 入选2025年度国家自然科学基金青年学生基础研究项目（博士研究生）
+- *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目**（博士研究生）
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI 2026**. (LLMs & Knowledge Distillation)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Image Processing (TIP)**. (Training Dynamics & Biased Learning)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IJCV 2025**. (Robustness & Spurious Correlations)
@@ -122,14 +122,14 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - ``arXiv preprint`` [Data Valuation by Leveraging Global and Local Statistical Information](https://arxiv.org/abs/2405.17464)
 
    **Xiaoling Zhou**, Ou Wu\*, Michael K. Ng, and Hao Jiang.
+
+- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
+
+   Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
   
 - ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
 
-  Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
-  
-- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
-
-  Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
+   Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
   
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
