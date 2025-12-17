@@ -25,6 +25,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目**（博士研究生）
+- *2025.12*: &nbsp;🎉🎉 入选2025年度**中国科协青年科技人才培育工程**博士生专项计划
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI 2026**. (LLMs & Knowledge Distillation)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Image Processing (TIP)**. (Training Dynamics & Biased Learning)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **International Journal of Computer Vision (IJCV)**. (Robustness & Spurious Correlations)
@@ -147,6 +148,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 🎖 Honors
 - *2025.12* &nbsp; 2025年度国家自然科学基金青年学生基础研究项目（博士研究生）
+- *2025.12* &nbsp; 2025年度中国科协青年科技人才培育工程博士生专项计划
 - *2025.10* &nbsp; 博士研究生国家奖学金
 - *2025.10* &nbsp; 北京大学学术创新奖
 <!--- *2025.10* &nbsp; 北京大学学术创新奖-->
