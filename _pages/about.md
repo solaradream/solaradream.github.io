@@ -24,23 +24,23 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目**（博士研究生）
-- *2025.12*: &nbsp;🎉🎉 入选2025年度**中国科协青年科技人才培育工程**博士生专项计划
+- *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）**
+- *2025.12*: &nbsp;🎉🎉 入选2025年度**中国科协青年科技人才培育工程博士生专项计划（the China Association for Science and Technology (CAST) Doctoral Program under the Young Scientific Talent Development Initiative）**
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI 2026**. (LLMs & Knowledge Distillation)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Image Processing (TIP)**. (Training Dynamics & Biased Learning)
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by **International Journal of Computer Vision (IJCV)**. (Robustness & Spurious Correlations)
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2025**. (LLMs & Causal Reasoning)
-- *2025.07*: &nbsp;🎉🎉 Selected for the **CIE-Tencent Doctoral Research Incentive Project (中国电子学会—腾讯博士生科研激励计划(混元大模型专项))** (23 Ph.D students nationwide). 
+- *2025.07*: &nbsp;🎉🎉 入选2025年度**中国电子学会—腾讯博士生科研激励计划(混元大模型专项) (CIE-Tencent Doctoral Research Incentive Project)** (23 Ph.D students nationwide). 
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (Highlight). (High-Performance Computing & Data Optimization)
-- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **Baidu Scholarship (百度奖学金)** (10 Ph.D students worldwide)
+- *2025.02*: &nbsp;🎉🎉 Awarded 2024 **百度奖学金 (Baidu Scholarship)** (10 Ph.D students worldwide)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (Oral). (Data Augmentation)
-- *2024.01*: &nbsp;🎉🎉 Selected for the 2023 Chinese Institute of Electronics Master's Thesis Incentive Program (2023年度中国电子学会硕士学位论文激励计划) (43 M.Sc students nationwide). 
+- *2024.01*: &nbsp;🎉🎉 入选2023年度中国电子学会硕士学位论文激励计划 (Chinese Institute of Electronics Master's Thesis Incentive Program) (43 M.Sc students nationwide). 
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (Data Weighting & Learning Difficulty)
 - *2023.09*: &nbsp;🎉🎉 Commenced Ph.D. studies at Peking University.
 - *2023.06*: &nbsp;🎉🎉 Received Tianjin University's Outstanding Master's Thesis Award.
@@ -95,6 +95,14 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - ``AAAI 2023`` <span style="color:red">(CCF Rank A, Oral)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
 
    **Xiaoling Zhou**, Nan Yang, and Ou Wu\*.
+
+- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
+
+   Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
+  
+- ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
+
+   Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
   
 - ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
@@ -123,14 +131,6 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - ``arXiv preprint`` [Data Valuation by Leveraging Global and Local Statistical Information](https://arxiv.org/abs/2405.17464)
 
    **Xiaoling Zhou**, Ou Wu\*, Michael K. Ng, and Hao Jiang.
-
-- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
-
-   Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
-  
-- ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
-
-   Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
   
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
@@ -147,37 +147,37 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🎖 Honors
-- *2025.12* &nbsp; 2025年度国家自然科学基金青年学生基础研究项目（博士研究生），国家自然科学基金委员会
-- *2025.12* &nbsp; 2025年度中国科协青年科技人才培育工程博士生专项计划，中国科学技术协会
-- *2025.10* &nbsp; 博士研究生国家奖学金
+- *2025.12* &nbsp; **2025年度国家自然科学基金青年学生基础研究项目（博士研究生）**，国家自然科学基金委员会
+- *2025.12* &nbsp; **2025年度中国科协青年科技人才培育工程博士生专项计划**，中国科学技术协会
+- *2025.10* &nbsp; **博士研究生国家奖学金**
 - *2025.10* &nbsp; 北京大学学术创新奖
 <!--- *2025.10* &nbsp; 北京大学学术创新奖-->
 - *2025.10* &nbsp; 北京大学学习优秀奖
-- *2025.07* &nbsp; 入选&nbsp;腾讯混元学者(Hunyuan Fellowship) (2025年度，全国仅23人)
-- *2025.07* &nbsp; 入选&nbsp;中国电子学会—腾讯博士生科研激励计划(混元大模型专项) (2025年度，全国仅23人)
-- *2025.02* &nbsp; 入选&nbsp;百度奖学金 (2024年度，全球仅10人)
-- *2024.12* &nbsp; 博士研究生国家奖学金
+- *2025.07* &nbsp; 入选&nbsp;**腾讯混元学者(Hunyuan Fellowship)** (2025年度，全国仅23人)
+- *2025.07* &nbsp; 入选&nbsp;**中国电子学会—腾讯博士生科研激励计划(混元大模型专项)** (2025年度，全国仅23人)
+- *2025.02* &nbsp; 入选&nbsp;**百度奖学金** (2024年度，全球仅10人)
+- *2024.12* &nbsp; **博士研究生国家奖学金**
 - *2024.10* &nbsp; 北京大学三好学生
-- *2024.01* &nbsp; 入选&nbsp;中国电子学会硕士学位论文激励计划 (2023年度，全国仅43篇)
+- *2024.01* &nbsp; 入选&nbsp;**中国电子学会硕士学位论文激励计划** (2023年度，全国仅43篇)
 - *2023.06* &nbsp; 天津大学优秀毕业生
 - *2023.06* &nbsp; 天津大学优秀硕士学位论文
-- *2022.12* &nbsp; 硕士研究生国家奖学金
+- *2022.12* &nbsp; **硕士研究生国家奖学金**
 - *2022.12* &nbsp; 天津大学优秀学生干部
 - *2022.12* &nbsp; 天津大学三好学生
 - *2021.12* &nbsp; 中国石油奖学金
 - *2020.12* &nbsp; 天津大学研究生学业一等奖学金
-- *2020.05* &nbsp; 入选&nbsp;《人民日报》本专科生国家奖学金获奖学生代表名录 (2020年度，全国仅110人)
-- *2019.12* &nbsp; 本科生国家奖学金
+- *2020.05* &nbsp; 入选&nbsp;**《人民日报》本专科生国家奖学金获奖学生代表名录** (2020年度，全国仅110人)
+- *2019.12* &nbsp; **本科生国家奖学金**
 - *2019.12* &nbsp; 天津市大学生创新奖学金
 
  
 # 🎖 Awards
 - *2019.06* &nbsp; 国家级大学生创新项目结题 [项目负责人]&thinsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;国家级
-- *2018.06* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;国家级特等奖
-- *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;省部级特等奖
-- *2019.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;国家级一等奖
-- *2018.05* &nbsp; 全国大学生英语竞赛&thinsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;国家级一等奖
-- *2017.11* &nbsp; 全国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;省部级一等奖
+- *2018.06* &nbsp; Mathorcup 全球大学生数学建模挑战赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**国家级特等奖**
+- *2018.06* &nbsp; 天津市大学生物理竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**省部级特等奖**
+- *2019.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**国家级一等奖**
+- *2018.05* &nbsp; 全国大学生英语竞赛&thinsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**国家级一等奖**
+- *2017.11* &nbsp; 全国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**省部级一等奖**
 - *2018.04* &nbsp; 美国大学生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;国家级二等奖
 - *2020.12* &nbsp; 华为杯中国研究生数学建模竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;国家级二等奖
 - *2017.05* &nbsp; 全国大学生英语竞赛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;国家级二等奖
