@@ -52,7 +52,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 # 📝 Publications 
 
-- ``ICML 2026`` <span style="color:red">(CCF Rank A)</span> [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models]()
+- ``ICML 2026`` <span style="color:red">(CCF Rank A)</span> [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](https://icml.cc/virtual/2026/poster/66160)
 
   **Xiaoling Zhou**, Shuaiyu Zhou, Zhemg Lee, Tao Chen, Xirui Li, Peng Chen, Jie Jiang, Wei Ye\*, and Shikun Zhang\*.
 
@@ -216,8 +216,11 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2020.09 - 2023.06*, M.S. student at Tianjin University, National Center for Applied Mathematics.
   - Supervised by Prof. [Ou Wu (吴偶)](https://www.scholat.com/wuou)
 
-
-# 💻 Services
+# 💻 Internships
+- *2025.12 - Now*, [Tencent(腾讯), Technology Engineering Group, 数据计算平台](https://www.tencent.com/zh-cn/index.html), China.
+  - Supervised by Prof. Tao Chen (陈涛)
+  
+# 💬 Services
 Program Committee (PC) Members:<br> 
   - NeurIPS, AAAI, ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
   - IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
