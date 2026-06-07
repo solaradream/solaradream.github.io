@@ -80,7 +80,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**<sup>#</sup>, Zhemg Lee<sup>#</sup>, Wei Ye\*, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li\*, and Shikun Zhang\*.
 
-- ``ICLR 2025`` <span style="color:red"></span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
+- ``ICLR 2025`` <span style="color:red">(CCF Rank A)</span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
 
   **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
   
@@ -100,7 +100,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Wei Ye\*, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
 
-- ``IJCAI 2024`` <span style="color:red">(CCF Rank A, Oral)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
+- ``IJCAI 2024`` <span style="color:red">(CCF Rank A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
 
    **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
   
