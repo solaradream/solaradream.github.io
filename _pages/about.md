@@ -58,7 +58,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 - ``ACL 2026`` <span style="color:red">(CCF Rank A)</span> [LeLoRA: Learnable Low-Rank Adaptation of Large Language Models]()
 
-  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+  **Xiaoling Zhou**<sup>#</sup>, Mingjie Zhang<sup>#</sup>, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
 
 - ``IJCV 2025`` <span style="color:red">(CCF Rank A)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
 
