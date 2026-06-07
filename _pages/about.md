@@ -24,6 +24,8 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**. (LLMs & RL & SFT)
+- *2026.04*: &nbsp;🎉🎉 One paper accepted by **ACL 2026**. (LLMs & Lora)
 - *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）**
 <!-- - *2025.12*: &nbsp;🎉🎉 入选2025年度**<span style="color:red">国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）</span>**-->
 - *2025.12*: &nbsp;🎉🎉 入选2025年度**中国科协青年科技人才培育工程博士生专项计划（the China Association for Science and Technology (CAST) Doctoral Program under the Young Scientific Talent Development Initiative）**
