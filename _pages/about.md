@@ -132,7 +132,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, and Ou Wu\*, and Michael K. Ng.
 
-- ``INS 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004086)
+- ``INS 2025`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004086)
 
    **Xiaoling Zhou**, Wei Ye\*, Rui Xie, and Shikun Zhang\*.
   
