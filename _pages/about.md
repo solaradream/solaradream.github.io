@@ -49,6 +49,15 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
+
+- ``ICML 2026`` <span style="color:red">(CCF Rank A)</span> [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models]()
+
+  **Xiaoling Zhou**, Shuaiyu Zhou, Zhemg Lee, Tao Chen, Xirui Li, Peng Chen, Jie Jiang, Wei Ye\*, and Shikun Zhang\*.
+
+- ``ACL 2026`` <span style="color:red">(CCF Rank A)</span> [LeLoRA: Learnable Low-Rank Adaptation of Large Language Models]()
+
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+
 - ``IJCV 2025`` <span style="color:red">(CCF Rank A)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
 
   **Xiaoling Zhou**, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
@@ -104,10 +113,23 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
 
    Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
-  
+
+  - ``IEEE TNNLS 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Implicit Demonstration Augmentation for Robust and Stable In-Context Learning](https://ieeexplore.ieee.org/document/11459134)
+
+   **Xiaoling Zhou**, Zhemg Lee, Rui Xie, Lei Zou, Wei Ye\*, and Shikun Zhang\*.
+
 - ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, and Ou Wu\*.
+  
+
+  - ``Information Fusion 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Data Valuation by Fusing Global and Local Statistical Information](https://doi.org/10.1016/j.inffus.2026.104488)
+
+   **Xiaoling Zhou**, Ou Wu\*, Michael K. Ng, and Hao Jiang.
+
+  - ``Pattern Recognition 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Towards Robust and Generalizable Learning via Implicit Counterfactual Data Augmentation](https://doi.org/10.1016/j.patcog.2026.113845)
+
+   **Xiaoling Zhou**, and Ou Wu\*, and Michael K. Ng.
 
 - ``INS 2025`` <span style="color:red">(CCF Rank B)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004086)
 
