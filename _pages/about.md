@@ -222,7 +222,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
   
 # 💬 Services
 Program Committee (PC) Members:<br> 
-  - NeurIPS, AAAI, ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
+  - ICML(2026, Awarded as Silver Reviewer), NeurIPS, AAAI, ICLR, CVPR, ACL, ACM MM, ICCV.<br> 
   - IEEE TIP, IEEE TCSVT, Journal of Supercomputing.<br>
   - IJCAI 2025 Session Chair.<br> 
 <br>
