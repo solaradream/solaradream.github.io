@@ -152,10 +152,6 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Ou Wu\*, and Michael K. Ng.
   
-- ``arXiv preprint`` [Data Valuation by Leveraging Global and Local Statistical Information](https://arxiv.org/abs/2405.17464)
-
-   **Xiaoling Zhou**, Ou Wu\*, Michael K. Ng, and Hao Jiang.
-  
 - ``JCDL 2020`` [Inter-subdiscipline Analysis Based on Mathematical Statements](https://dl.acm.org/doi/abs/10.1145/3383583.3398574)
 
    Rui Wang, **Xiaoling Zhou**, Jian Wu, and Ou Wu\*.
