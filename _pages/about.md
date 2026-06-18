@@ -60,7 +60,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**<sup>#</sup>, Mingjie Zhang<sup>#</sup>, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
 
-- ``IJCV 2025`` <span style="color:red">(CCF Rank A, IF: 10.3)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
+- ``IJCV 2025`` <span style="color:red">(CCF Rank A, JCR 1区, IF: 10.3)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
 
   **Xiaoling Zhou**, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
   
