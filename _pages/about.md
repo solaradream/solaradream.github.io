@@ -30,24 +30,24 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 <!-- - *2025.12*: &nbsp;🎉🎉 入选2025年度**<span style="color:red">国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）</span>**-->
 - *2025.12*: &nbsp;🎉🎉 入选2025年度**中国科协青年科技人才培育工程博士生专项计划（the China Association for Science and Technology (CAST) Doctoral Program under the Young Scientific Talent Development Initiative）**
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI 2026**. (LLMs & Knowledge Distillation)
-- *2025.10*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Image Processing (TIP)**. (Training Dynamics & Biased Learning)
-- *2025.10*: &nbsp;🎉🎉 One paper accepted by **International Journal of Computer Vision (IJCV)**. (Robustness & Spurious Correlations)
+- *2025.10*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Image Processing (TIP, IF: 15.3)**. (Training Dynamics & Biased Learning)
+- *2025.10*: &nbsp;🎉🎉 One paper accepted by **International Journal of Computer Vision (IJCV, IF: 10.3)**. (Robustness & Spurious Correlations)
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2025**. (LLMs & Causal Reasoning)
 - *2025.07*: &nbsp;🎉🎉 入选2025年度**中国电子学会—腾讯博士生科研激励计划(混元大模型专项) (CIE-Tencent Doctoral Research Incentive Project)** (23 Ph.D students nationwide). 
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2025**. (Robustness & Spurious Correlations)
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (In-Context Learning & Causal Inference)
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE, IF: 11.6)**. (In-Context Learning & Causal Inference)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025** (Highlight). (High-Performance Computing & Data Optimization)
 - *2025.02*: &nbsp;🎉🎉 Awarded 2024 **百度奖学金 (Baidu Scholarship)** (10 Ph.D students worldwide)
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by **ICLR 2025**. (Hallucination Detection & Mitigation)
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by **AAAI 2025**. (Long-Tail Learning)
-- *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. (Adversarial Training)
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF: 20.4)**. (Adversarial Training)
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **ACL 2024** (Long paper). (In-Context Learning)
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **IJCAI 2024** (Oral). (Data Augmentation)
 - *2024.01*: &nbsp;🎉🎉 入选2023年度**中国电子学会硕士学位论文激励计划 (Chinese Institute of Electronics Master's Thesis Incentive Program)** (43 M.Sc students nationwide). 
-- *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**. (Data Weighting & Learning Difficulty)
+- *2023.09*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE, IF: 11.6)**. (Data Weighting & Learning Difficulty)
 - *2023.09*: &nbsp;🎉🎉 Commenced Ph.D. studies at Peking University.
 - *2023.06*: &nbsp;🎉🎉 Received Tianjin University's Outstanding Master's Thesis Award.
-- *2023.06*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**. (Learning Difficulty)
+- *2023.06*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF: 9.7)**. (Learning Difficulty)
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
@@ -60,7 +60,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**<sup>#</sup>, Mingjie Zhang<sup>#</sup>, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
 
-- ``IJCV 2025`` <span style="color:red">(CCF Rank A)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
+- ``IJCV 2025`` <span style="color:red">(CCF Rank A, IF: 10.3)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
 
   **Xiaoling Zhou**, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
   
@@ -72,7 +72,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, and Shikun Zhang\*.
 
-- ``TKDE 2025`` <span style="color:red">(CCF Rank A, 中科院1区TOP)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
+- ``TKDE 2025`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 11.6)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
 
   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Lei Zou, and Shikun Zhang\*.
 
@@ -88,11 +88,11 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
   **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
   
-- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
+- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 20.4)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
   **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
   
-- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
+- ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 11.6)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
    **Xiaoling Zhou**, Ou Wu\*, and Mengyang Li.
   
@@ -108,7 +108,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Nan Yang, and Ou Wu\*.
 
-- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
+- ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 15.3)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
 
    Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
   
@@ -116,23 +116,23 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
 
-- ``IEEE TNNLS 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Implicit Demonstration Augmentation for Robust and Stable In-Context Learning](https://ieeexplore.ieee.org/document/11459134)
+- ``IEEE TNNLS 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 9.7)</span> [Implicit Demonstration Augmentation for Robust and Stable In-Context Learning](https://ieeexplore.ieee.org/document/11459134)
 
    **Xiaoling Zhou**, Zhemg Lee, Rui Xie, Lei Zou, Wei Ye\*, and Shikun Zhang\*.
 
-- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
+- ``IEEE TNNLS 2023`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 9.7)</span> [Which Samples Should Be Learned First: Easy or Hard?](https://ieeexplore.ieee.org/document/10155763)
 
    **Xiaoling Zhou**, and Ou Wu\*.
   
-- ``Information Fusion 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Data Valuation by Fusing Global and Local Statistical Information](https://doi.org/10.1016/j.inffus.2026.104488)
+- ``Information Fusion 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 17.4)</span> [Data Valuation by Fusing Global and Local Statistical Information](https://doi.org/10.1016/j.inffus.2026.104488)
 
    **Xiaoling Zhou**, Ou Wu\*, Michael K. Ng, and Hao Jiang.
 
-- ``Pattern Recognition 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Towards Robust and Generalizable Learning via Implicit Counterfactual Data Augmentation](https://doi.org/10.1016/j.patcog.2026.113845)
+- ``Pattern Recognition 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 9.1)</span> [Towards Robust and Generalizable Learning via Implicit Counterfactual Data Augmentation](https://doi.org/10.1016/j.patcog.2026.113845)
 
    **Xiaoling Zhou**, and Ou Wu\*, and Michael K. Ng.
 
-- ``INS 2025`` <span style="color:red">(CCF Rank B, 中科院1区TOP)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004086)
+- ``INS 2025`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 6.0)</span> [Mitigating Spurious Correlations with Causal Logit Perturbation](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004086)
 
    **Xiaoling Zhou**, Wei Ye\*, Rui Xie, and Shikun Zhang\*.
   
@@ -140,7 +140,7 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Ou Wu\*, Weiyao Zhu, and Ziyang Liang.
   
-- ``KBS 2022`` <span style="color:red">(CCF Rank C, 中科院1区TOP)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
+- ``KBS 2022`` <span style="color:red">(CCF Rank C, 中科院1区TOP, IF: 8.0)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu\*, and Chao Jiang.
   
