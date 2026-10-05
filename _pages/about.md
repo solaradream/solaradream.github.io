@@ -24,7 +24,9 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **Information Fusion (IFS)**. (Data Valuation & Data-Centric AI)
 - *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**. (LLMs & RL & SFT)
+- *2026.04*: &nbsp;🎉🎉 One paper accepted by **Pattern Recognition (PR)**. (Robust Learning & Data Augmentation)
 - *2026.04*: &nbsp;🎉🎉 One paper accepted by **ACL 2026**. (LLMs & Lora)
 - *2025.12*: &nbsp;🎉🎉 入选2025年度**国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）**
 <!-- - *2025.12*: &nbsp;🎉🎉 入选2025年度**<span style="color:red">国家自然科学基金青年学生基础研究项目（博士研究生）（NSFC Young Student Basic Research Program (Doctoral Students)）</span>**-->
