@@ -51,70 +51,27 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by **AAAI 2023** (Oral). (Adversarial Training & Imbalance Learning)
 
 # 📝 Publications 
+**Journal Papers:**
 
-- ``ICML 2026`` <span style="color:red">(CCF Rank A)</span> [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](https://icml.cc/virtual/2026/poster/66160)
+- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 20.4)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
 
-  **Xiaoling Zhou**, Shuaiyu Zhou, Zhemg Lee, Tao Chen, Xirui Li, Peng Chen, Jie Jiang, Wei Ye\*, and Shikun Zhang\*.
-
-- ``ACL 2026`` <span style="color:red">(CCF Rank A)</span> [LeLoRA: Learnable Low-Rank Adaptation of Large Language Models]()
-
-  **Xiaoling Zhou**<sup>#</sup>, Mingjie Zhang<sup>#</sup>, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+  **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
 
 - ``IJCV 2025`` <span style="color:red">(CCF Rank A, JCR 1区, IF: 10.3)</span> [Dynamic Knowledge Transfer for Mitigating Spurious Correlations in Deep Learning]()
 
   **Xiaoling Zhou**, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
-  
-- ``NeurIPS 2025`` <span style="color:red">(CCF Rank A)</span> [Boosting Resilience of Large Language Models through Causality-Driven Robust Optimization](https://neurips.cc/virtual/2025/poster/116769)
-
-  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Yuncheng Hua, Chengli Xing, Wei Ye\*, Flora Salim, and Shikun Zhang\*.
-  
-- ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer](https://www.ijcai.org/proceedings/2025/0799)
-
-  **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, and Shikun Zhang\*.
 
 - ``TKDE 2025`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 11.6)</span> [Valuing Training Data via Causal Inference for In-Context Learning](https://ieeexplore.ieee.org/document/10908061)
 
   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Lei Zou, and Shikun Zhang\*.
-
-- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising](https://ieeexplore.ieee.org/abstract/document/11092318)
-
-  **Xiaoling Zhou**<sup>#</sup>, Zhemg Lee<sup>#</sup>, Wei Ye\*, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li\*, and Shikun Zhang\*.
-
-- ``ICLR 2025`` <span style="color:red">(CCF Rank A)</span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
-
-  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
-  
-- ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34462)
-
-  **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
-  
-- ``IEEE TPAMI 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 20.4)</span> [Adversarial Training with Anti-adversaries](https://ieeexplore.ieee.org/abstract/document/10608444)
-
-  **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
   
 - ``IEEE TKDE 2024`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 11.6)</span> [Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework](https://ieeexplore.ieee.org/abstract/document/10254261)
 
    **Xiaoling Zhou**, Ou Wu\*, and Mengyang Li.
-  
-- ``ACL 2024`` <span style="color:red">(CCF Rank A, Long paper)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://aclanthology.org/2024.acl-long.155/)
-
-   **Xiaoling Zhou**, Wei Ye\*, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
-
-- ``IJCAI 2024`` <span style="color:red">(CCF Rank A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
-
-   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
-  
-- ``AAAI 2023`` <span style="color:red">(CCF Rank A, Oral)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
-
-   **Xiaoling Zhou**, Nan Yang, and Ou Wu\*.
 
 - ``IEEE TIP 2025`` <span style="color:red">(CCF Rank A, 中科院1区TOP, IF: 15.3)</span> [Delving into the Training Dynamics for Image Classification](https://ieeexplore.ieee.org/document/11202341)
 
    Mengyang Li<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, and Ou Wu\*.
-  
-- ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
-
-   Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
 
 - ``IEEE TNNLS 2026`` <span style="color:red">(CCF Rank B, 中科院1区TOP, IF: 9.7)</span> [Implicit Demonstration Augmentation for Robust and Stable In-Context Learning](https://ieeexplore.ieee.org/document/11459134)
 
@@ -136,13 +93,59 @@ Feel free to contact me<!--for communication and collaboration--> by email: [xia
 
    **Xiaoling Zhou**, Wei Ye\*, Rui Xie, and Shikun Zhang\*.
   
-- ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B, Oral)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
-
-   **Xiaoling Zhou**, Ou Wu\*, Weiyao Zhu, and Ziyang Liang.
-  
 - ``KBS 2022`` <span style="color:red">(CCF Rank C, 中科院1区TOP, IF: 8.0)</span> [Increasing Naturalness of Human–Machine Dialogue: The Users’ Choices Inference of Options in Machine-Raised Questions](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002064)
 
    **Xiaoling Zhou**, Ou Wu\*, and Chao Jiang.
+  
+**Conference Papers：**
+
+- ``ICML 2026`` <span style="color:red">(CCF Rank A)</span> [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](https://icml.cc/virtual/2026/poster/66160)
+
+  **Xiaoling Zhou**, Shuaiyu Zhou, Zhemg Lee, Tao Chen, Xirui Li, Peng Chen, Jie Jiang, Wei Ye\*, and Shikun Zhang\*.
+
+- ``ACL 2026`` <span style="color:red">(CCF Rank A)</span> [LeLoRA: Learnable Low-Rank Adaptation of Large Language Models]()
+
+  **Xiaoling Zhou**<sup>#</sup>, Mingjie Zhang<sup>#</sup>, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+
+- ``NeurIPS 2025`` <span style="color:red">(CCF Rank A)</span> [Boosting Resilience of Large Language Models through Causality-Driven Robust Optimization](https://neurips.cc/virtual/2025/poster/116769)
+
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Yuncheng Hua, Chengli Xing, Wei Ye\*, Flora Salim, and Shikun Zhang\*.
+
+- ``ICLR 2025`` <span style="color:red">(CCF Rank A)</span> [HaDeMiF: Hallucination Detection and Mitigation in Large Language Models](https://openreview.net/forum?id=VwOYxPScxB)
+
+  **Xiaoling Zhou**, Mingjie Zhang, Zhemg Lee, Wei Ye\*, and Shikun Zhang\*.
+  
+- ``AAAI 2025`` <span style="color:red">(CCF Rank A)</span> [Class and Attribute-Aware Logit Adjustment for Generalized Long-Tail Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34462)
+
+  **Xiaoling Zhou**, Ou Wu\*, and Nan Yang.
+
+- ``CVPR 2025`` <span style="color:red">(CCF Rank A, Highlight)</span> [All-Optical Nonlinear Diffractive Deep Network for Ultrafast Image Denoising](https://ieeexplore.ieee.org/abstract/document/11092318)
+
+  **Xiaoling Zhou**<sup>#</sup>, Zhemg Lee<sup>#</sup>, Wei Ye\*, Rui Xie, Wenbo Zhang, Guanju Peng, Zongze Li\*, and Shikun Zhang\*.
+  
+- ``IJCAI 2025`` <span style="color:red">(CCF Rank A)</span> [Robustness to Spurious Correlations via Dynamic Knowledge Transfer](https://www.ijcai.org/proceedings/2025/0799)
+
+  **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, and Shikun Zhang\*.
+  
+- ``ACL 2024`` <span style="color:red">(CCF Rank A, Long paper)</span> [Enhancing In-Context Learning via Implicit Demonstration Augmentation](https://aclanthology.org/2024.acl-long.155/)
+
+   **Xiaoling Zhou**, Wei Ye\*, Yidong Wang, Chaoya Jiang, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
+
+- ``IJCAI 2024`` <span style="color:red">(CCF Rank A)</span> [Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://www.ijcai.org/proceedings/2024/625)
+
+   **Xiaoling Zhou**, Wei Ye\*, Zhemg Lee, Rui Xie, and Shikun Zhang\*.
+  
+- ``AAAI 2023`` <span style="color:red">(CCF Rank A, Oral)</span> [Combining Adversaries with Anti-adversaries in Training](https://dl.acm.org/doi/10.1609/aaai.v37i9.26352)
+
+   **Xiaoling Zhou**, Nan Yang, and Ou Wu\*.
+  
+- ``AAAI 2026`` <span style="color:red">(CCF Rank A)</span> [ASKD: Reinforcement Learning-Style Knowledge Distillation with Quality-Adaptive Skewness]()
+
+   Mingjie Zhang<sup>#</sup>, **Xiaoling Zhou**<sup>#</sup>, Yuxiao Luo<sup>#</sup>, Yiyu Liu, Shikun Zhang, and Wei Ye\*.
+  
+- ``ECML-PKDD 2022`` <span style="color:red">(CCF Rank B, Oral)</span> [Understanding Difficulty-Based Sample Weighting with a Universal Difficulty Measure](https://dl.acm.org/doi/abs/10.1007/978-3-031-26409-2_5)
+
+   **Xiaoling Zhou**, Ou Wu\*, Weiyao Zhu, and Ziyang Liang.
   
 - ``ACPR 2021`` [Drop “Noise” Edge: An Approximation of the Bayesian GNNs](https://link.springer.com/chapter/10.1007/978-3-031-02444-3_5)
 
